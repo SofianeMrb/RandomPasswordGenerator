@@ -1,0 +1,39 @@
+body {
+    font-family: 'Roboto', sans-serif; /* Material-UI font */
+    text-align: center;
+    margin: 20px;
+    background: linear-gradient(to right, #8E2DE2, #4A00E0); /* Gradient background */
+    color: #fff; /* Text color */
+}
+
+h1 {
+    color: #fff;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #45a049;
+}
+
+label {
+    font-size: 18px;
+    margin-top: 20px;
+    display: block;
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+    width: 300px;
+    margin-top: 10px;
+    box-sizing: border-box;
+}
